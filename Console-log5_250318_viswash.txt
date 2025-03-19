@@ -1,0 +1,23 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is FA6E-C9F4
+
+ Directory of C:\work
+
+03/19/2025  12:42 PM    <DIR>          .
+03/19/2025  12:42 PM                 0 Console-log5_250318_viswash.txt
+03/18/2025  01:25 PM               349 PC202-24.txt
+               2 File(s)            349 bytes
+               1 Dir(s)  855,328,702,464 bytes free
+
+C:\work>type PC202-24.txt
+Information in this computer.
+as Mon March 10 this is the network info
+
+   IPv4 Address. . . . . . . . . . . : 192.168.208.125(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, March 12, 2025 3:01:04 AM
+   Lease Expires . . . . . . . . . . : Wednesday, March 19, 2025 1:18:33 PM
